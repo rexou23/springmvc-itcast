@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvc_02_response:war">
+    <output-path>$PROJECT_DIR$/mvc_02_response/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mvc_02_response</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mvc_02_response.war">
+      <element id="artifact" artifact-name="mvc_02_response:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mvc_01_start" />
+        <module name="mvc_02_response" />
+        <module name="mvc_03_fileupload" />
+        <module name="mvc_03_picserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mvc_01_start" target="1.8" />
+      <module name="mvc_02_response" target="1.8" />
+      <module name="mvc_03_fileupload" target="1.8" />
+      <module name="mvc_03_picserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
